@@ -1,0 +1,25 @@
+Git:
+
+Objetos interenos do Git
+- Blobs
+- Tress
+- Commits
+
+
+Comandos:
+
+git init
+ls
+ls -a
+git add*
+git commit -m "commit inicial
+
+
+Como mandar para o github
+Criar repositório/ clona ele atraves do git clone link
+git status
+
+para adicionar
+git add .
+git commit --m "Inclusão das anotaçõeos do Cursoo Git/hub"
+git push origin main
